@@ -1,7 +1,7 @@
 # ip-rpi
 Python script to display local IP address of Raspberry Pi
 
-Read this in other languages: [简体中文](https://github.com/kopikaki/ip-rpi/README.zh-cn.md).
+Read this in other languages: [简体中文](https://github.com/kopikaki/ip-rpi/blob/master/README.zh-cn.md).
 
 ## Installation
 
