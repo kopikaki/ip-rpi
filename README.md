@@ -1,13 +1,15 @@
 # ip-rpi
 Python script to display local IP address of Raspberry Pi
 
+Read this in other languages: [简体中文](https://github.com/kopikaki/ip-rpi/edit/master/README.zh-cn.md).
+
 ## Installation
 
 Download to project folder /home/pi/projects/ip-rpi.
 
 ```bash
-cd /home/pi/projects/
-git clone https://github.com/kopikaki/ip-rpi.git
+$ cd /home/pi/projects/
+$ git clone https://github.com/kopikaki/ip-rpi.git
 ```
 
 ## Usage
@@ -15,7 +17,7 @@ git clone https://github.com/kopikaki/ip-rpi.git
 Add the cron script to start at boot and run for every 1 min.
 
 ```bash
-crontab -e
+$ crontab -e
 ```
 
 ```
@@ -28,7 +30,7 @@ crontab -e
 Check the cron script.
 
 ```bash
-crontab -l
+$ crontab -l
 ```
 
 ## Contributing
