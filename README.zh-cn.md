@@ -1,7 +1,7 @@
 # ip-rpi
 Python 程序显示树莓派网路地址 。
 
-Read this in other languages: [English](https://github.com/kopikaki/ip-rpi/README.md).
+Read this in other languages: [English]https://github.com/kopikaki/ip-rpi/blob/master/README.md).
 
 ## 安装
 
