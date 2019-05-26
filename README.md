@@ -8,7 +8,8 @@ Read this in other languages: [简体中文](https://github.com/kopikaki/ip-rpi/
 Download to project folder /home/pi/projects/ip-rpi.
 
 ```bash
-$ cd /home/pi/projects/
+$ mkdir -p $HOME/pi/projects/
+$ cd $HOME/pi/projects/
 $ git clone https://github.com/kopikaki/ip-rpi.git
 ```
 
